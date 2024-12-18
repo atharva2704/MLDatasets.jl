@@ -94,6 +94,8 @@ include("datasets/vision/omniglot.jl")
 export Omniglot
 include("datasets/vision/svhn2.jl")
 export SVHN2
+include("datasets/vision/stackedmnist.jl")
+export StackedMNIST
 
 ## Text
 
